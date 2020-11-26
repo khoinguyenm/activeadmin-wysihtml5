@@ -5,6 +5,6 @@ gemspec
 gem 'sass-rails'
 gem 'coffee-rails'
 gem 'uglifier'
-gem 'activeadmin', github: 'gregbell/active_admin', branch: 'master'
-gem 'activeadmin-dragonfly', github: 'stefanoverna/activeadmin-dragonfly', branch: 'master'
+gem 'activeadmin', '1.0.0'
+gem 'activeadmin-dragonfly', github: 'LuizFellype/activeadmin-dragonfly', branch: 'master'
 
